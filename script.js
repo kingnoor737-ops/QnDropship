@@ -1,0 +1,1 @@
+console.log("TrendBazario website is live!");
