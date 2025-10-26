@@ -14,21 +14,16 @@
   text-align: center;
 }
 
-.product-card img {
+.placeholder-img {
   width: 100%;
   height: 150px;
-  object-fit: cover;
+  background-color: #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #555;
   border-radius: 5px;
-}
-
-.product-card h3 {
-  font-size: 16px;
-  margin: 10px 0 5px;
-}
-
-.product-card p {
-  font-size: 14px;
-  color: #333;
+  margin-bottom: 10px;
 }
 
 .product-card button {
